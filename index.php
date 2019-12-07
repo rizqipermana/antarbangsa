@@ -1,5 +1,5 @@
 <?php
-echo "Hello World";
+echo "Hello Antarbangsa";
 
 echo " STMIK antar bangsa";
 echo " M.S Anwar";
